@@ -1,0 +1,22 @@
+.navbar-brand {
+  padding: 0px;
+}
+.navbar-brand>img {
+  height: 100%;
+  padding: 15px;
+  width: 100%;
+}
+
+.jumbotron {
+	background-color: #e95420;
+	padding: 0;
+	height: 100%;
+	width: 100%
+	margin-top: 0;
+}
+
+.img-responsive{
+	padding-top: 25%;
+
+}
+
